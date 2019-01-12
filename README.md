@@ -5,6 +5,8 @@ Implementation for language classifier between English and Dutch languages. One 
 
 Performance of both models is being validation on varying length input sizes of text and performance evaluation has been consolidated in results.pdf file.
 
+----------------------------------------------------------
+
 **How to train model:**
 python    train.py    mode='dt'or'ab'   train_file_name
 
@@ -25,7 +27,6 @@ sample: python predict.py dt new_nl.txt
 
 test file should have a single plaintext data which we want to classify.
 
-Note: predict.py file is modified to match up with the requirements of the assignments and will only use one best model. Code with minor changes can support different models.
 ---------------------------------------------------------
 
 **Train Files:**
