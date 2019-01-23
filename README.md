@@ -52,7 +52,13 @@ DTree
 
 
 ------------------------------------------------------
-**Summary Results for all tests performed on AdaBoost model:
+**Summary**    
+Class Balancing ensured. Below is the summary of manually collected dataset specifications.
+<p align="center">
+<img src="https://github.com/jaideepmurkute/Language-Classification-With-Adaptive-Boosting-AdaBoost-Ensemble-Trees-from-scratch/blob/master/Dataset%20Summary.PNG" width="400" height="100" align="center">
+</p>  
+
+**Results for all tests performed on AdaBoost model:**  
 <p align="center">
 <img src="https://github.com/jaideepmurkute/Language-Classification-With-Adaptive-Boosting-AdaBoost-Ensemble-Trees-from-scratch/blob/master/Summary_results.PNG" width="500" height="400" align="center">
 </p>
