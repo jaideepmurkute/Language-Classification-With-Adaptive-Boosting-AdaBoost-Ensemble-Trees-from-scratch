@@ -49,3 +49,10 @@ AdaBoostWeightsDump_fav
 other trained models:
 AdaBoostWeightsDump
 DTree
+
+
+------------------------------------------------------
+**Summary Results for all tests performed on AdaBoost model:
+<p align="center">
+<img src="https://github.com/jaideepmurkute/Language-Classification-With-Adaptive-Boosting-AdaBoost-Ensemble-Trees-from-scratch/blob/master/Summary_results.PNG" width="500" height="400" align="center">
+</p>
